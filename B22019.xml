@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instrvctions of the Lords and Commons assembled in Parliament for the Right Honourable Francis Lord Willoughby of Parham lord lietenant of the county of Lincolne and to the rest of the committee ordered by both the said houses to goe into that county and there put in execution these insuing instructions for the setling &amp; preserving the peace of that county and city and the parts adjoyning.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22019</idno><idno type="EEBO-CITATION">12281898</idno>
+  <idno type="VID">197704</idno>
+  <idno type="EEBO-PROQUEST">2240967057</idno>
+  
+            <idno type="STC">Wing E1596</idno>
+            <idno type="OCLC">12281898</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197704)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E119, no 12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instrvctions of the Lords and Commons assembled in Parliament for the Right Honourable Francis Lord Willoughby of Parham lord lietenant of the county of Lincolne and to the rest of the committee ordered by both the said houses to goe into that county and there put in execution these insuing instructions for the setling &amp; preserving the peace of that county and city and the parts adjoyning.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. B. and are to be sold by John Wright,</publisher>
+                  <pubPlace>... London :</pubPlace>
+                  <date>Septemb. 30, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Willoughby of Parham, Francis Willoughby, --  Baron, 1613?-1666.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term type="geographic_name">Lincoln (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197704:1"/>
+            <p> INSTRVCTIONS Of the LORDS and COMMONS Assembled in PARLIAMENT, For the right Honourable <hi>Francis</hi> Lord <hi>Willoughby</hi> of <hi>Parham,</hi> Lord Lieutenant of the County of LINCOLNE, and to the rest of the Committee, Orde<g ref="char:EOLhyphen"/>red by both the said Houses to goe into that County, and there put in execution these insuing Instructions, for the setling &amp; preserving the peace of that Coun<g ref="char:EOLhyphen"/>ty and City, and the parts ad<g ref="char:EOLhyphen"/>joyning</p>
+            <p>John Browne Cler, Parliamentorum.</p>
+            <p>
+               <hi>Septemb.</hi> 30. London Printed for <hi>J. B.</hi> and are to be sold by <hi>John Wright.</hi> 1642.</p>
+            <pb facs="tcp:197704:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197704:2"/>
+            <argument>
+               <p>INstructions for the right Honourable, <hi>Francis</hi> Lord <hi>Willoughby</hi> of <hi>Parham,</hi> Lord Lieutenant of the County of <hi>Lincolne,</hi> Sir <hi>John Wray,</hi> Sir <hi>Willi<g ref="char:EOLhyphen"/>am Armin</hi> Baronets, Sir <hi>Edward Ascough,</hi> Sir <hi>Christopher Wray,</hi> Sir <hi>Anthony Erby,</hi> Sir <hi>Sa<g ref="char:EOLhyphen"/>muel Adfield</hi> Knights, <hi>Thomas Grantham, Tho. Hatcher, William Ellis, John Broxholme, Esq;</hi> Members of both Houses of <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arliament, who are here<g ref="char:EOLhyphen"/>by appointed and Ordered by both the said Houses of Parlament, to goe into the County and City of <hi>Lin<g ref="char:EOLhyphen"/>colne,</hi> there to remaine as a Committee from the Lords and Commons now Assembled in Parliament: And they, or any three or more of them, whereof the said <hi>Francis</hi> Lord <hi>Willoughby</hi> to be one, together with the Deputy Lieutenants of the said County, and City, or any of them, shall have full Power and Autho<g ref="char:EOLhyphen"/>rity, to put in Execution these insuing Instructions, for the setling and preserving of the Peace of that County and City, and the parts adjoyning.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas his Excellency, <hi>Robert</hi> Earle of <hi>Essex,</hi> Lord Generall of the Army ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oynted to be raised for the defence of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Protestant Religion, the safety of his Majesties Person, and the Parliament, the preservation of the Lawes, Liberties, and Peace of the Kingdome, and protection of his Majesties
+<pb facs="tcp:197704:3"/> Subjects from violence and oppression, hath granted Commissions unto the said <hi>Francis</hi> Lord <hi>Willoughby</hi> Sir <hi>Christopher Wray,</hi> Sir <hi>Anthony Erby,</hi> and <hi>Thomas H<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cher,</hi> they shall put the said Commissions in due Exe<g ref="char:EOLhyphen"/>cution, and conduct and lead the said Forces into the County of <hi>Lincolne,</hi> for the preserving the Peace of that County,</p>
+            <p>And the said <hi>Francis</hi> Lord <hi>Willoughby,</hi> shall have power to raise and leavy within the said County of <hi>Lincolne,</hi> City of <hi>Lincolne,</hi> and County of the same, such other numbers of Horse and Foot of the Trai<g ref="char:EOLhyphen"/>ned-bands or others, as he shall judge convenient for keeping the peace of that County, and the service hereafter mentioned. And shall have further power to place Colonels, Captaines, and other Officers o<g ref="char:EOLhyphen"/>ver the said Forces, which shall have power to lead and conduct the same against all such as shall oppose them in the execution of these Instructions, and to Fight with, Kill and Slay, all such opposers.</p>
+            <p>Whereas <hi>Mountague</hi> Lord <hi>Willoughby,</hi> Sir <hi>Peregrine Barty,</hi> Sir <hi>Edward Iteron,</hi> Sir <hi>Iohn Monson,</hi> Sir <hi>Philip Terwhitt,</hi> Sir <hi>Charles Rolles,</hi> Sir <hi>William Pelham,</hi> Sir <hi>Ier<g ref="char:EOLhyphen"/>vas Scroope,</hi> Sir <hi>Henry Radley,</hi> Sir <hi>William Thorold,</hi> Sir <hi>William Coney,</hi> Sir <hi>Charles Dallison,</hi> Sir <hi>Edward Hussey,</hi> Sir <hi>Robert Markham,</hi> Sir <hi>William Quadran, Charles Dymock</hi> Esquire, <hi>Thomas Harrington</hi> of <hi>Corby</hi> Gentle<g ref="char:EOLhyphen"/>man, and divers Popish and ill-affected persons have in a Rebellious and Warlike manner raised, armed, and assembled themselves within the City and Coun<g ref="char:EOLhyphen"/>ty of <hi>Lincolne,</hi> to the great terror and affrightment of his Majesties Liege-people, and therein have leavyed
+<pb facs="tcp:197704:3"/> war against the King, and Parliament, and doe con<g ref="char:EOLhyphen"/>tinue in actuall Rebellion,</p>
+            <p>You shall withall or any part of the Forces under your commands, resort to the said County and City of <hi>Lincolne,</hi> of <hi>Nottingham, Yorkeshire,</hi> or elsewhere, as occasion shall serve, and shall cause the aforesaid per<g ref="char:EOLhyphen"/>sons where ever you can find them, and all other that have joyned and confederated with them in this their wicked Rebellion, or so many of them as you shall thinke fit to be summoned, to render themselves into your hands to be brought up unto the Parliament, there to answer for these their unlawfull and Trayte<g ref="char:EOLhyphen"/>rous actions according to the Lawes.</p>
+            <p>And if they refuse to obey the said Summons, and you be denyed entrance into the said City of <hi>Lincoln,</hi> or any other Towne in the said County, or into the Houses of any of the persons before recited, or of their confederates, you shall by force Besiege, Batter, and Subdue the said City, Towns and houses, and shall seize upon their persons, and shall bring or send them in safe custody to the Parliament.</p>
+            <p>You shall restore to their dwellings and goods, all such persons as have bin driven or fled out of the said City or County, and you shall certifie what par<g ref="char:EOLhyphen"/>ticular losses they have received, and the values there<g ref="char:EOLhyphen"/>of, that so satisfaction may be made them out of the estates of the Delinquents in that County.</p>
+            <p>And if you shall find no considerable resistance in the said County, then you shall settle what force you thinke convenient both of horse and foot, for keeping the peace of that County and City, and de<g ref="char:EOLhyphen"/>fending
+<pb facs="tcp:197704:4"/> his Majesties subjects from oppression and violence, and shall give not<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce thereof to both Hou<g ref="char:EOLhyphen"/>ses of Parliament, that you may receive their fur<g ref="char:EOLhyphen"/>ther commands.</p>
+            <p>You shall have power to require the aid and assi<g ref="char:EOLhyphen"/>stance of the Lord Lieutenants, and Deputy Lieute<g ref="char:EOLhyphen"/>nants of the County of <hi>Yorke, Nottingham▪ R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tland, Norf<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lke, and North Hampton,</hi> or any of them, and to come in association for the mutuall Peace of each other.</p>
+            <p>You are hereby authorized and required to dis<g ref="char:EOLhyphen"/>arme all Popish Recusants, all the aforenamed Per<g ref="char:EOLhyphen"/>sons, that have leavied war against the King and Par<g ref="char:EOLhyphen"/>liament, and to take from them all Tents, Wagons, Horses for service, great saddles, and all other war<g ref="char:EOLhyphen"/>like furniture whatsoever, and from all such other dangerous and ill affected persons, as well Clergy<g ref="char:EOLhyphen"/>men as others, as have sent moneyes, Horses, armes, ammunition or victuals, to the said Rebels, towards the maintenance of the said force, raised in the said County or City, or have sent any money, armes, am<g ref="char:EOLhyphen"/>munition or Horses, to assist the Delinquents or Malignant Partie, now about the King, or to any o<g ref="char:EOLhyphen"/>ther place, to be employed against the Parliament, as also all such as have testified their disaffection to the Common: Wealth, and malice against the Pro<g ref="char:EOLhyphen"/>ceedings of Parliament, by subscribing that most insolent, seditious, and most scandalous Petition sent unto the House of Commons, by the Sheriffes of that County, a true Copy of which Petition, and of the names subscribed, you shall receive unto it,
+<pb facs="tcp:197704:4"/> under the hand of the Clerke of the House of Com<g ref="char:EOLhyphen"/>mons, as also all such as have put the Commission of <hi>Array</hi> in Execution, adjudged illegall by both Hou<g ref="char:EOLhyphen"/>ses of Parliament.</p>
+            <p>You or any three or more of you, whereof the Lord Lieutenant to be one, shall also in the name of both Houses of Parliament, require all such persons who have in their Custody any part of the publike Magazine of that County, to deliver the same to you, or some of you, to bee disposed of, and im<g ref="char:EOLhyphen"/>ployed for the defence of the said County, and in case of refusall, you are hereby authorized to sieze, take, carry away, and dispose the same for the purpo<g ref="char:EOLhyphen"/>ses aforesaid, and to cause the persons so refusing to be apprehended as Delinquents, and sent in safe <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<g ref="char:EOLhyphen"/>stody to the Parliament.</p>
+            <p>You are authorized and hereby enabled and re<g ref="char:EOLhyphen"/>quired to put in execution in the said County and City of <hi>Lincolne,</hi> the Propositions of both Houses of Parliament, concerning the subscription of any summe or sums of money or plates, or raising of Horse, Horses, men, or arms, for the defence of the King, and both Houses of Parliament, and shall ap<g ref="char:EOLhyphen"/>point such dayes, times and place, for the furthe<g ref="char:EOLhyphen"/>rance of that service as you shall thinke meet and convenient, and shall appoint Treasurers, Receavers, Commissaries for valuing of Horse, and other Offi<g ref="char:EOLhyphen"/>cers, meet for that businesse, and shall have power to <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end to such as are of ability to know what they will contribute towards this businesse, and you shall have power to pay such Souldiers as shall be by you
+<pb facs="tcp:197704:5"/> or any of you carryed into the said County, or rai<g ref="char:EOLhyphen"/>sed in the said County, out of the said monies rai<g ref="char:EOLhyphen"/>sed upon the said Propositions, and you shall ac<g ref="char:EOLhyphen"/>compt for the overplus if any remaine, and likewise returne Certificates under three or more of your hands into the Chamber of London what sums of money and Plate is underwrit and brought in, that they may be entred also there.</p>
+            <p>Lastly If any man of quality and considerable estate have removed their dwellings out of the County of <hi>Lincolne,</hi> you shall enquire where they are setled, and give notice thereof unto the Parliament: that Order may be taken to receive their answers concerning the Propositions for Subscription of money Plate and Horses, for defence of the King and Kingdome.</p>
+            <closer>
+               <signed>Iohn Browne Cler. Parliament.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
